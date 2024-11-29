@@ -1,0 +1,8 @@
+[INFO] 2024-11-29 20:31:38 Trading engine started.
+[INFO] 2024-11-29 20:31:38 Order executed at 09:00, Price: 104.000000, Quantity: 5, Symbol: AAPL
+[INFO] 2024-11-29 20:31:38 Order executed at 09:01, Price: 102.000000, Quantity: 15, Symbol: AAPL
+[INFO] 2024-11-29 20:31:38 Order executed at 09:02, Price: 98.000000, Quantity: 10, Symbol: AAPL
+[INFO] 2024-11-29 20:31:38 Order executed at 09:02, Price: 98.000000, Quantity: 15, Symbol: AAPL
+[INFO] 2024-11-29 20:31:38 Order executed at 09:03, Price: 200.000000, Quantity: 10, Symbol: GOOG
+[INFO] 2024-11-29 20:31:38 Order executed at 09:03, Price: 200.000000, Quantity: 15, Symbol: GOOG
+[INFO] 2024-11-29 20:31:38 Trading engine completed.
